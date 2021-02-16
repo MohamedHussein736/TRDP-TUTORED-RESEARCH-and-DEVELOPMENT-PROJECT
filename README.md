@@ -2,7 +2,6 @@
 Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1)
 
 ## Researc Papers:
-
 LIFTS: Lidar and Monocular Image Fusion for Multi-Object Tracking and Segmentation [[paper]](https://motchallenge.net/workshops/bmtt2020/papers/LIFTS.pdf)<br>
 
 SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC [[paper]](https://arxiv.org/pdf/1703.07402.pdf)<br>
@@ -20,10 +19,18 @@ DEFT: Detection Embeddings for Tracking [[paper]](https://arxiv.org/pdf/2102.022
 DEFT: Detection Embeddings for Tracking [[paper]](https://arxiv.org/pdf/2102.02267v1.pdf)<br>
 
 
+No Blind Spots: Full-Surround Multi-Object Tracking for Autonomous Vehicles using Cameras & LiDARs [[paper]](https://arxiv.org/pdf/1802.08755.pdf)<br>
+
+Fusion of 3D LIDAR and Camera Data for Object Detection in Autonomous Vehicle Applications [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957313)<br>
+
+Multi-Object Tracking with Correlation Filter for Autonomous Vehicle [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6068606/)<br>
+
+nuScenes: A multimodal dataset for autonomous driving [[paper]](https://arxiv.org/pdf/1903.11027.pdf)<br>
+
+
 Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
 
 Joint Monocular 3D Vehicle Detection and Tracking [[paper]](https://arxiv.org/pdf/1811.10742v3.pdf)<br>
-
 
 Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
 
@@ -33,10 +40,9 @@ Robust 3D Object Tracking in Autonomous Vehicles [[paper]](http://cs230.stanford
 
 Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation [[paper]](https://arxiv.org/pdf/1912.04573.pdf)<br>
 
-FEELVOS: Fast End-to-End Embedding Learning for Video Object
-Segmentation [[paper]](https://arxiv.org/pdf/1902.09513.pdf)<br>
+FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation [[paper]](https://arxiv.org/pdf/1902.09513.pdf)<br>
 
 Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
 
-Beyond Pixels: Leveraging Geometry and Shape Cues for Online
-Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1802.09298v2.pdf)<br>
+Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1802.09298v2.pdf)<br>
+

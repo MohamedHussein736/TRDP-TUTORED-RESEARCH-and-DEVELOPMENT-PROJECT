@@ -1,5 +1,7 @@
 # TRDP-TUTORED-RESEARCH-and-DEVELOPMENT-PROJECT
-Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1)
+Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1) <br> <br>
+![alt text](https://miro.medium.com/max/900/1*mQSvkJXZq0MvPdrA6aoXag.jpeg) <br>
+
 
 ## Researc Papers:
 LIFTS: Lidar and Monocular Image Fusion for Multi-Object Tracking and Segmentation [[paper]](https://motchallenge.net/workshops/bmtt2020/papers/LIFTS.pdf)<br>

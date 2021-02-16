@@ -1,7 +1,9 @@
 # TRDP-TUTORED-RESEARCH-and-DEVELOPMENT-PROJECT
 Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1) <br> <br>
 ![alt text](https://miro.medium.com/max/900/1*mQSvkJXZq0MvPdrA6aoXag.jpeg) <br>
-
+<p align="center">
+<img src="https://1000marcas.net/wp-content/uploads/2019/12/UAM-Logo.png" align="center" width="400" height="400"> <br>
+</p>
 
 ## Researc Papers:
 LIFTS: Lidar and Monocular Image Fusion for Multi-Object Tracking and Segmentation [[paper]](https://motchallenge.net/workshops/bmtt2020/papers/LIFTS.pdf)<br>
@@ -47,4 +49,11 @@ FEELVOS: Fast End-to-End Embedding Learning for Video Object Segmentation [[pape
 Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
 
 Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1802.09298v2.pdf)<br>
+
+## Simulation Software
+LGSVL  [[Website]](https://www.lgsvlsimulator.com/) [[Github]](https://github.com/lgsvl)<br>
+Airsim [[Website]](https://microsoft.github.io/AirSim/) [[Github]](https://github.com/microsoft/AirSim)<br>
+Carla  [[Website]](https://carla.org/) [[Github]](https://github.com/carla-simulator/carla)<br>
+Nvidia [[Website]](https://www.nvidia.com/en-us/self-driving-cars/) [[youtube]](https://www.youtube.com/watch?v=DXsLDyiONV4&ab_channel=NVIDIA)<br>
+rfpro  [[Website]](https://www.rfpro.com/) [[youtube]](https://www.youtube.com/watch?v=nYrcwsa8qCU&ab_channel=rFpro)<br>
 

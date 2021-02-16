@@ -1,2 +1,40 @@
 # TRDP-TUTORED-RESEARCH-and-DEVELOPMENT-PROJECT
 Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1)
+
+LIFTS: Lidar and Monocular Image Fusion for Multi-Object Tracking and Segmentation [[paper]](https://motchallenge.net/workshops/bmtt2020/papers/LIFTS.pdf)<br>
+
+SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC [[paper]](https://arxiv.org/pdf/1703.07402.pdf)<br>
+
+Multiple Object Tracking with Siamese Track-RCNN [[paper]](https://arxiv.org/pdf/2004.07786.pdf)<br>
+
+Tracking without bells and whistles [[paper]](https://arxiv.org/pdf/1903.05625.pdf)<br>
+
+Towards Real-Time Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.12605.pdf)<br>
+
+
+DEFT: Detection Embeddings for Tracking [[paper]](https://arxiv.org/pdf/2102.02267v1.pdf)<br>
+
+
+DEFT: Detection Embeddings for Tracking [[paper]](https://arxiv.org/pdf/2102.02267v1.pdf)<br>
+
+
+Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
+
+Joint Monocular 3D Vehicle Detection and Tracking [[paper]](https://arxiv.org/pdf/1811.10742v3.pdf)<br>
+
+
+Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
+
+
+Robust 3D Object Tracking in Autonomous Vehicles [[paper]](http://cs230.stanford.edu/projects_fall_2019/reports/26250102.pdf)<br>
+
+
+Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation [[paper]](https://arxiv.org/pdf/1912.04573.pdf)<br>
+
+FEELVOS: Fast End-to-End Embedding Learning for Video Object
+Segmentation [[paper]](https://arxiv.org/pdf/1902.09513.pdf)<br>
+
+Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909.03850v1.pdf)<br>
+
+Beyond Pixels: Leveraging Geometry and Shape Cues for Online
+Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1802.09298v2.pdf)<br>

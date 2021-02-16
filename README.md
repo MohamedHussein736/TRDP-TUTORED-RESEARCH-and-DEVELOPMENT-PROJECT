@@ -59,7 +59,7 @@ rfpro  [[Website]](https://www.rfpro.com/) [[youtube]](https://www.youtube.com/w
 
 
 ## Related Tutorials
-CV3DST - Computer Vision 3: Detection, Segmentation, Tracking [[youtube]](https://www.youtube.com/watch?v=jj17HVNl700 list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs&index=14&ab_channel=DynamicVisionandLearningGroup) <br>
+CV3DST - Computer Vision 3: Detection, Segmentation, Tracking [[youtube]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ)
 
 Multiple Object Tracking [[youtube]](https://www.youtube.com/channel/UCa2-fpj6AV8T6JK1uTRuFpw) <br>
 

@@ -51,6 +51,7 @@ Robust Multi-Modality Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1909
 Beyond Pixels: Leveraging Geometry and Shape Cues for Online Multi-Object Tracking [[paper]](https://arxiv.org/pdf/1802.09298v2.pdf)<br>
 ## Real-Datasets
 KITTI Vision Benchmark [[website]](http://www.cvlibs.net/datasets/kitti/) <br>
+[![Watch the video](https://i.ytimg.com/vi/KXpZ6B1YB_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=_imrrzn8NDk&ab_channel=AndreasGeiger)
 
 ## Simulation Software
 LGSVL  [[Website]](https://www.lgsvlsimulator.com/) [[Github]](https://github.com/lgsvl)<br>

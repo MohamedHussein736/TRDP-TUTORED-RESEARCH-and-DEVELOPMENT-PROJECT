@@ -65,6 +65,16 @@ CV3DST - Computer Vision 3: Detection, Segmentation, Tracking [[youtube]](https:
 
 Multiple Object Tracking [[youtube]](https://www.youtube.com/channel/UCa2-fpj6AV8T6JK1uTRuFpw) <br>
 
+## Useful Links
+awesome-multiple-object-tracking [[Github]](https://github.com/SpyderXu/multi-object-tracking-paper-list) <br>
+awesome-multiple-object-tracking-2 [[Github]](https://github.com/luanshiyinyang/awesome-multiple-object-tracking) <br>
+awesome-self-driving-cars [[Github]](https://github.com/jitrc/awesome-self-driving-cars) <br>
+awesome-computer-vision [[Github]](https://github.com/jbhuang0604/awesome-computer-vision) <br>
+awesome-vehicle-security [[Github]](https://github.com/jaredthecoder/awesome-vehicle-security) <br>
+awesome-computer-vision [[Github]](https://github.com/jbhuang0604/awesome-computer-vision) <br>
+awesome-deep-vision [[Github]](https://github.com/kjw0612/awesome-deep-vision) <br>
+Deep-Learning-Papers-Reading-Roadmap [[Github]](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) <br>
+
 
 
 

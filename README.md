@@ -5,7 +5,7 @@ Research on Multi-modal Tracking using LIDAR and Visual Signals (Semester 1) <br
 <img src="https://1000marcas.net/wp-content/uploads/2019/12/UAM-Logo.png" align="center" width="400" height="400"> <br>
 </p>
 
-## Researc Papers:
+## Research Papers:
 LIFTS: Lidar and Monocular Image Fusion for Multi-Object Tracking and Segmentation [[paper]](https://motchallenge.net/workshops/bmtt2020/papers/LIFTS.pdf)<br>
 
 SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC [[paper]](https://arxiv.org/pdf/1703.07402.pdf)<br>

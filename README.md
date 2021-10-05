@@ -67,7 +67,7 @@ nuScenes [[Website]](https://www.nuscenes.org/nuimages) <br>
 waymo [[Website]](https://waymo.com/open/)<br>
 Lyft L5  [[Website]](https://level-5.global/) <br>
 ApolloScape  [[Website]](http://apolloscape.auto/) <br>
-
+Summary  [[Website]](https://arxiv.org/pdf/1903.11027.pdf) <br>
 
 ## Related Tutorials
 CV3DST - Computer Vision 3: Detection, Segmentation, Tracking [[youtube]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ)

@@ -61,6 +61,14 @@ Nvidia [[Website]](https://www.nvidia.com/en-us/self-driving-cars/) [[youtube]](
 rfpro  [[Website]](https://www.rfpro.com/) [[youtube]](https://www.youtube.com/watch?v=nYrcwsa8qCU&ab_channel=rFpro)<br>
 
 
+## Datasets
+KITTI [[Website]](http://www.cvlibs.net/datasets/kitti/) <br>
+nuScenes [[Website]](https://www.nuscenes.org/nuimages) <br>
+waymo [[Website]](https://waymo.com/open/)<br>
+Lyft L5  [[Website]](https://level-5.global/) <br>
+ApolloScape  [[Website]](http://apolloscape.auto/) <br>
+
+
 ## Related Tutorials
 CV3DST - Computer Vision 3: Detection, Segmentation, Tracking [[youtube]](https://www.youtube.com/channel/UCQVCsX1CcZQr0oUMZg6szIQ)
 
